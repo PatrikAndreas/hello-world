@@ -1,2 +1,3 @@
 # hello-world
 GitHub - first repository
+First try at Github - no idea what is going on ....
